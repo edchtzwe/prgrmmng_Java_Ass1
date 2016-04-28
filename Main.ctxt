@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ sell()
+comment2.params=
+comment2.target=void\ show()
+comment3.params=
+comment3.target=void\ subMain()
+comment3.text=\r\n\ keeps\ selling,\ getting\ ratings\ and\ show\ until\ user\ quits\r\n
+comment4.params=
+comment4.target=void\ sellBook()
+comment4.text=\r\n\ sells\ a\ book\ and\ asks\ for\ rating\r\n
+comment5.params=
+comment5.target=void\ sellMovie()
+comment5.text=\r\n\ sells\ a\ movie\ and\ asks\ for\ rating\r\n
+comment6.params=
+comment6.target=void\ sellCD()
+comment6.text=\r\n\ sells\ a\ cd\ and\ asks\ for\ rating\r\n
+numComments=7

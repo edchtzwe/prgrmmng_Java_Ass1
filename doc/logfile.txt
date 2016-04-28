@@ -1,0 +1,49 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_03\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia
+-d
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_03
+Building tree for all the packages and classes...
+Generating C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc\Shop.html...
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java:100: warning - @param argument "(Iselection)" is not a parameter name.
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java:164: warning - @param argument "(Iselection," is not a parameter name.
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java:192: warning - @param argument "(Iselection," is not a parameter name.
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java:220: warning - @param argument "(Iselection," is not a parameter name.
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java:149: warning - @param argument "(Iselection)" is not a parameter name.
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java:178: warning - @param argument "(Iselection)" is not a parameter name.
+C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\Shop.java:206: warning - @param argument "(Iselection)" is not a parameter name.
+Generating C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc\package-frame.html...
+Generating C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc\package-summary.html...
+Generating C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc\allclasses-frame.html...
+Generating C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc\allclasses-noframe.html...
+Generating C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc\index.html...
+Generating C:\Users\HP G4\Documents\swinburne files\programming-in-java\Assignment_1\BooksnMedia\doc\stylesheet.css...
+7 warnings
